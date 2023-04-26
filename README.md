@@ -1,5 +1,6 @@
+# INNOVAR-SQL
 
-INNOVAR-SQL
+## Conde Quispe Reinhard Vicent
 
 Este proyecto esta hecho en sql de mysql server 2019.
 Cuenta con tablas y relaciones
